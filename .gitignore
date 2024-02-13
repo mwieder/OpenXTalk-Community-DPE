@@ -137,3 +137,13 @@ toolchain/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+build-mac/livecode/prebuilt/._libcurl.xcodeproj
+build-mac/livecode/prebuilt/._libicu.xcodeproj
+build-mac/livecode/prebuilt/._libopenssl.xcodeproj
+build-mac/livecode/prebuilt/._thirdparty.xcodeproj
+build-mac/livecode/prebuilt/._fetch.xcodeproj
+build-mac/livecode/prebuilt/._thirdparty.xcodeproj
+build-mac/livecode/prebuilt/._libopenssl.xcodeproj
+build-mac/livecode/prebuilt/._libicu.xcodeproj
+build-mac/livecode/prebuilt/._libcurl.xcodeproj
+build-mac/livecode/prebuilt/._fetch.xcodeproj
